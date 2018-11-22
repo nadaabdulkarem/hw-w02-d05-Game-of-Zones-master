@@ -49,6 +49,7 @@ Your homework tonight is to finish the duckhunt lab!  Please copy/paste this int
   
   ## Part 2:  Game of Zones:
   ![](https://media.giphy.com/media/N1o4vTl8z86hq/giphy.gif)
+```
 
 # Game of Zones
 
